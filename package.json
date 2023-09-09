@@ -4,7 +4,7 @@
   "description": "Nest - modern, fast, powerful node.js web framework (@graphql)",
   "author": "Kamil Mysliwiec",
   "license": "MIT",
-  "main": "./index.ts",
+  "main": "./lib/index.ts",
   "publishConfig": {
     "access": "public"
   },
